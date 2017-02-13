@@ -13,4 +13,4 @@ categories: "blog"
 
 ---
 
-locALIZATION IS THE BEST CHANCE TO SPREAD OUT AND SAVE OUR MOTHER TONGUE. SO WE CONDUCT THIS AWARENESS PROGRAM FOR PARTICIPATING TO INCREASE THE LOCALIZATION PARTICIPANTS FROM OUR COLLEGE.
+Localization is the best chance to spread out and save our mother tongue. So we conduct this awareness program for participating to increase the localization participants from our college.
