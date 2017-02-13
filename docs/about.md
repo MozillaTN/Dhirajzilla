@@ -20,7 +20,7 @@ You and me. We and us.
 
 Dhirajzilla is new, bountiful and infinite. We are a fresh generation of thinkers, movers and shakers. And we hope to succeed in our first attempt.
 
-Bleed. Flow. And remember to code.
+Bleed. Flow. And remember to code..
 
 *Let’s get rid of the asterixes.*
 
