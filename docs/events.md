@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dhirajzilla Events
+title: Dhirajzilla Events
 navigation_title: Events
 permalink: /Events/
 button: true
