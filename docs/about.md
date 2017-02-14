@@ -1,16 +1,16 @@
 ---
 layout: page
 navigation_title: About
-title: About MozillaTN SNSCT
+title: About MozillaTN Dhirajzilla
 permalink: /about/
 cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 ---
 
-SNSCT Mozilla Campus Club is a Club functioning under Mozilla Tamilnadu.
+Dhirajzilla Mozilla Campus Club is a Club functioning under Mozilla Tamilnadu.
 
 We believe in keeping the power of web in people’s hands. We envision a world where web is **free and fair**.
 
-We are a bunch of high spirited folks. We are a team.
+DGCTians are a bunch of high spirited folks. We are a team.
 
 You and me. We and us.
 
