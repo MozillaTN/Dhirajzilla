@@ -7,4 +7,4 @@ cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 ---
 
 
-{% include blog-post-list.html %}
+http://dhevendhiran.blogspot.in/2017/01/my-first-meetup-with-mozilla-tn17.html
