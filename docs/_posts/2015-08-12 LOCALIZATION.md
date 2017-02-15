@@ -9,7 +9,7 @@ date:   2015-08-12
 #event organiser details
 organiser: "ashly rose mathew"
 
-categories: "blog"
+categories: "Event"
 
 ---
 
