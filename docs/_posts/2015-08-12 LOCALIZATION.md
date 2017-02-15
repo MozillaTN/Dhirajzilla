@@ -2,9 +2,9 @@
 layout: post
 
 #event information
-title:  "LocalizationAwareness "
+title: "LocalizationAwareness "
 cover: "../assets/mozilla-tn-bannerc.png"
-date:   2015-08-12
+date: 2015-08-12
 
 #event organiser details
 organiser: "ashly rose mathew"
