@@ -1,6 +1,6 @@
 -   name: Dhevendhiran.M
     twitter: dhevendhiran111
-    description: Rust contributor
+    description: Rust and WoMoz contributor
     photo: "http://secure.gravatar.com/avatar/4453d1cf6a17c4b000518a476d74caee"
     contribution: Rust
     
@@ -12,9 +12,15 @@
 
 -   name: Bhuvana Meenakshi.K
     twitter: bhuvanakotees1
-    description: First Time Contributor
+    description: WebVR and WoMoz contributor
     photo: "https://secure.gravatar.com/avatar/40571974b242cc0a8e8de23f43637a92"
     contribution: WebExtension
+    
+-   name: Fahima Zulfath
+    twitter: bhuvanakotees1
+    description: QA and WoMoz contributor
+    photo: "http://secure.gravatar.com/avatar/323fb10ae57099b0d980c9d3c490fd56"
+    contribution: QA
 
 
 
