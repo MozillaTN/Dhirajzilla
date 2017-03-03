@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "localization awareness "
+title:  "open source awareness "
 cover: "../assets/mozilla-tn-bannerc.png"
 date:   2015-08-12
 
