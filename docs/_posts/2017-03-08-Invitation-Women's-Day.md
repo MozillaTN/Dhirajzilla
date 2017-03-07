@@ -4,7 +4,7 @@ layout: post
 #event information
 title:  "Call for Women's Day Events"
 cover: "../assets/mozilla-tn-bannerc.png"
-date:   2015-08-12
+date:   2017-03-08
 
 #event organiser details
 organiser: "Ashly Rose Mathew"
