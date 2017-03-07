@@ -7,6 +7,7 @@ button: true
 cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 ---
 Invitation for Women's Day Events:
+
 Mozilla Community happy to welcomes women contributors for Open Source Technologies. As a Campus Club of Mozilla Community, we intent to celebrate womens's day which is on March 8 at DGCT. There are five events to be conduct which are
 
 1. "ROLE OF WOMEN IN TECHNOLOGY" speech by Ms. Ashly Rose Mathew.
