@@ -9,7 +9,7 @@ date:   2017-03-08
 #event organiser details
 organiser: "Ashly Rose Mathew"
 
-categories: "blog"
+categories: "event"
 
 ---
 
