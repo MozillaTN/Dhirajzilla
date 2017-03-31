@@ -19,7 +19,7 @@ We celebrated Women's Day by organising an event and participated in various Moz
 WOMENS DAY CELEBRATION- 08 March 2017:
     In order to bring Women to the Technological World, Dhirajzilla conducted event on Women's Day to give awareness on trending Open Source tools and projects. A group of 29 out of 15 were women contributors have attended this event. The event came across five sessions through which DGCTians learnt many new things and benefited by acquirung more knowledge about various Open source Activities. The session covers,
 
-   1. "ROLE OF WOMEN IN TECHNOLOGY" speech by Ms. Ashly Rose Mathew.
+   1. "ROLE OF WOMEN IN TECHNOLOGY" what we are and what we can by Ms. Ashly Rose Mathew.
    2. "Introduction to WebVR" by Ms. Bhuvana Meenakshi.
    3. "Hands-on session for Testing with Firefox Nightly" by Ms. Fahima Zulfath.
    4. "Introduction and Guidance for Web Extension" by Ms. Ashly Rose Mathew.
