@@ -38,4 +38,4 @@ community members, developers, open source enthusiasts to join our "Firefox Nigh
 
 **DATE:** June 10, 2017.
 
-**TIME:** 9.00 AM to 4.00 PM. 
+**TIME:** 9.00 AM to 1.00 PM. 
