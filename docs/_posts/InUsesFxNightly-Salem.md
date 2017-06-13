@@ -31,7 +31,7 @@ community members, developers, open source enthusiasts to join our "Firefox Nigh
    
 **HASHTAG:**
 
-   * #InUsesFxNightly
+   * #INUsesFxNightly
    * #MozillaTN
    
 **VENUE:** CCI Computer Education, VRK building, near Palace theater, Salem, Tamilnadu.
