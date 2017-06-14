@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Firefox Nightly Campaign at Salem"
-cover: "../assets/mozilla-tn-bannerc.png"
+cover: "../assets/InUsesFxNightly.jpg"
 date:   2017-06-18
 
 #event organiser details
