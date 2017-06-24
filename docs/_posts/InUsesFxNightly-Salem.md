@@ -29,12 +29,13 @@ community members, developers, open source enthusiasts to join our "Firefox Nigh
    * Filing Webcompat issues with Firefox Nightly.
    * Demonstration of other ways to contribution.
    * Swag distribution and Group photo.
-   
-No of attendees at the event: 15
-No of Firefox Nightly installed: 11 Laptops / 5 Mobile / 1 Tablet
-No. of participants will contribute in Firefox Nightly after event: 6
-No. of people switchback to Firefox Nightly from other browsers: 8
-No. of bug filled in Webcompat: 2
-No. of blogs generated: 1
-No. of active contributor after the event: 5
+
+**METRICS ACHIEVED:**   
+   * No of attendees at the event: 15
+   * No of Firefox Nightly installed: 11 Laptops / 5 Mobile / 1 Tablet
+   * No. of participants will contribute in Firefox Nightly after event: 6
+   * No. of people switchback to Firefox Nightly from other browsers: 8
+   * No. of bug filled in Webcompat: 2
+   * No. of blogs generated: 1
+   * No. of active contributor after the event: 5
 
