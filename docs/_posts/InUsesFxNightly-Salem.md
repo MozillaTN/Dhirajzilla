@@ -15,8 +15,9 @@ categories: "blog"
 
 It gives an immense pleasure to share that [Mozilla India](https://blog.mozillaindia.org/1801) have organized a campaign called 
 **India Uses Firefox Nightly** especially for the developers of India to enjoy the pre-released version of Firefox. 
-Mozilla Tamilnadu community is very happy to be the part of this campaign and inviting students, 
-community members, developers, open source enthusiasts to join our "Firefox Nightly Campaign" at Salem on June 18,2017.
+Mozilla Tamilnadu community is very happy to be the part of this campaign and organised a event called "Firefox Nightly Campaign" at Salem on June 18,2017. These event is organized with the objective to provide platform for the students to showcase     their talent with a competitive spirit.The event was successful enough  to  attract  as  many  as  800registrations for two day fest which includes all the events.
+
+If you are a power-user, then as a developer you can access new seatured before they get releases in mainstream, are looking for an easy way to help Mozilla and Firefox development, you should use Nightly
 
 **AGENDA:**
 
@@ -36,6 +37,6 @@ community members, developers, open source enthusiasts to join our "Firefox Nigh
    * No. of participants will contribute in Firefox Nightly after event: 6
    * No. of people switchback to Firefox Nightly from other browsers: 8
    * No. of bug filled in Webcompat: 2
-   * No. of blogs generated: 1
+   * No. of blogs generated: 4
    * No. of active contributor after the event: 5
 
