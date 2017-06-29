@@ -17,7 +17,7 @@ During the month of May and June 2017, [Mozilla India](https://blog.mozillaindia
 
 ![Invitation of Firefox Nightly Campaign]({{ site.url }}/assets/events/nightlyinvitation.jpg)
 
-These event is organized with the objective to bring more power users for nightly and to provide platform for the students to develope and showcase their skills by contributing for Nightly were they can access to features in development months before they become establish in mainstream, The event started with the following flow,
+These event is organized with the objective to bring more power users for nightly and to provide platform for the students to develope and showcase their skills by contributing for Nightly were they can access to features in development months before they become establish in the mainstream, The event started with the following flow,
 
    * Introduction to Mozilla.
    * What is Firefox nightly?
@@ -29,7 +29,7 @@ These event is organized with the objective to bring more power users for nightl
    * Demonstration of other ways to contribution.
    * Swag distribution and Group photo.
    
- The event was very successful enough to attract as many as 15 contributors out of which we had 5 new contributors. During the event we had Hands-on session on triaging Webcompat issues after giving demos on reporting bugs in QA and Webcompat and their individual results can be seen in this ([etherpad](https://public.etherpad-mozilla.org/p/firefox-nightly-campaign-salem)). We had a great time organising the event in Salem. We would like to register our sincere thanks to everyone who volunteered for this event. Here is what our contributors have to say about their experience they had during the event in a blog.
+ The event was very successful enough to attract as many as 15 contributors out of which we had 5 new contributors. During the event we had Hands-on session on triaging Webcompat issues after giving demos on reporting bugs in QA & Webcompat and their individual results can be seen in this ([etherpad](https://public.etherpad-mozilla.org/p/firefox-nightly-campaign-salem)). We had a great time organising the event in Salem. We would like to register our sincere thanks to everyone who volunteered for this event. Here is what our contributors have to say about their experience they had during the event in a blog.
  
  * [Alwin Mathew.](http://alwinmathewm.blogspot.in/2017/06/experience-in-nightly-campaign-salem.html)
  * [Dinesh Kumar.](http://dinestronic.blogspot.in/2017/06/hi-techies-i-attended.html?m=1)
