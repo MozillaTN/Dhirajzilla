@@ -13,11 +13,11 @@ categories: "blog"
 
 ---
 During the month of May and June 2017, [Mozilla India](https://blog.mozillaindia.org/1801) have organized a campaign called 
-**India Uses Firefox Nightly**  especially for the developers of India to enjoy the pre-released version of Firefox. Mozilla Tamilnadu community is very happy to be the part of this campaign and organised a event called "Firefox Nightly Campaign" at Salem on June 18,2017. These event is organized with the objective to provide platform for the students to showcase their talent with a competitive spirit. The event was successful enough to attract as many as 15 contributors out of which we had 5 new contributors.
+**India Uses Firefox Nightly**  especially for the developers of India to enjoy the pre-released version of Firefox. The main motto of this campaign gets established is to create awarness about pre-release version available as Nightly and targeting more power users for nightly. Contributing for Nightly is the easy way to make Firefox more stable during its initial stage of development before getting released. Mozilla Tamilnadu community is very happy to be the part of this campaign and organised a event called "Firefox Nightly Campaign" at Salem on June 18, 2017.
 
-If you are a power-user, then as a developer you can access new seatured before they get releases in mainstream, are looking for an easy way to help Mozilla and Firefox development, you should use Nightly
+![Invitation of Firefox Nightly Campaign]({{ site.url }}/assets/events/nightlyinvitation.jpg)
 
-**AGENDA:**
+These event is organized with the objective to bring more power users for nightly and to provide platform for the students to develope and showcase their skills by contributing for Nightly. The event started with the following flow,
 
    * Introduction to Mozilla.
    * What is Firefox nightly?
@@ -25,16 +25,19 @@ If you are a power-user, then as a developer you can access new seatured before 
    * Set yourself up with Firefox Nightly latest version.
    * Interesting tools in Nightly.
    * How to file bug in bugzilla for nightly issue.
-   * Filing Webcompat issues with Firefox Nightly.
+   * Filing & Triaging Webcompat issues with Firefox Nightly.
    * Demonstration of other ways to contribution.
    * Swag distribution and Group photo.
+   
+ The event was very successful enough to attract as many as 15 contributors out of which we had 5 new contributors. During the event we had Hands-on session on triaging Webcompat issues after   
+
 
 **METRICS ACHIEVED:**   
    * No of attendees at the event: 15
-   * No of Firefox Nightly installed: 11 Laptops / 5 Mobile / 1 Tablet
-   * No. of participants will contribute in Firefox Nightly after event: 6
-   * No. of people switchback to Firefox Nightly from other browsers: 8
-   * No. of bug filled in Webcompat: 2
-   * No. of blogs generated: 4
-   * No. of active contributor after the event: 5
+   * No of Firefox Nightly installed: 11 Laptops / 5 Mobile / 1 Tab
+   * No of participants will contribute in Firefox Nightly after event: 6
+   * No of people switchback to Firefox Nightly from other browsers: 8
+   * No of bug filled in Webcompat: 2
+   * No of blogs generated: 4
+   * No of active contributor after the event: 5
 
