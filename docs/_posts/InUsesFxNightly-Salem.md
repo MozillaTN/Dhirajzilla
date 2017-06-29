@@ -12,12 +12,12 @@ organiser: "Fahima Zulfath"
 categories: "blog"
 
 ---
-During the month of May and June 2017, [Mozilla India](https://blog.mozillaindia.org/1801) have organized a campaign called 
-**India Uses Firefox Nightly**  especially for the developers of India to enjoy the pre-released version of Firefox. The main motto of this campaign gets established is to create awarness about pre-release version available as Nightly and targeting more power users for nightly. Contributing for Nightly is the easy way to make Firefox more stable during its initial stage of development before getting released. Mozilla Tamilnadu community is very happy to be the part of this campaign and organised a event called "Firefox Nightly Campaign" at Salem on June 18, 2017.
+During the month of May and June 2017, [Mozilla India](https://blog.mozillaindia.org/1801) have organised a campaign called 
+**India Uses Firefox Nightly**  especially for the developers of India to enjoy the pre-released version of Firefox. The main motto of this campaign is to create awarness about pre-release version available as Nightly and targeting more power users for nightly. Contributing for Nightly is the easy way to make Firefox more stable during its initial stage of development before getting released in the mainstream. Mozilla Tamilnadu community is very happy to be the part of this campaign and organised a event called "Firefox Nightly Campaign" at Salem on June 18, 2017.
 
 ![Invitation of Firefox Nightly Campaign]({{ site.url }}/assets/events/nightlyinvitation.jpg)
 
-These event is organized with the objective to bring more power users for nightly and to provide platform for the students to develope and showcase their skills by contributing for Nightly. The event started with the following flow,
+These event is organized with the objective to bring more power users for nightly and to provide platform for the students to develope and showcase their skills by contributing for Nightly were they can access to features in development months before they become establish in mainstream, The event started with the following flow,
 
    * Introduction to Mozilla.
    * What is Firefox nightly?
@@ -29,8 +29,9 @@ These event is organized with the objective to bring more power users for nightl
    * Demonstration of other ways to contribution.
    * Swag distribution and Group photo.
    
- The event was very successful enough to attract as many as 15 contributors out of which we had 5 new contributors. During the event we had Hands-on session on triaging Webcompat issues after   
+ The event was very successful enough to attract as many as 15 contributors out of which we had 5 new contributors. During the event we had Hands-on session on triaging Webcompat issues after giving demos on reporting bugs in QA and Webcompat and their individual results can be seen in this ([etherpad](https://public.etherpad-mozilla.org/p/firefox-nightly-campaign-salem)). We had a great time organising the event in Salem.   
 
+![Ending session with group photo]({{ site.url }}/assets/events/nightlygp.jpg)
 
 **METRICS ACHIEVED:**   
    * No of attendees at the event: 15
