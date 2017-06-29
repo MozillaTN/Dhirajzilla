@@ -29,11 +29,17 @@ These event is organized with the objective to bring more power users for nightl
    * Demonstration of other ways to contribution.
    * Swag distribution and Group photo.
    
- The event was very successful enough to attract as many as 15 contributors out of which we had 5 new contributors. During the event we had Hands-on session on triaging Webcompat issues after giving demos on reporting bugs in QA and Webcompat and their individual results can be seen in this ([etherpad](https://public.etherpad-mozilla.org/p/firefox-nightly-campaign-salem)). We had a great time organising the event in Salem.   
+ The event was very successful enough to attract as many as 15 contributors out of which we had 5 new contributors. During the event we had Hands-on session on triaging Webcompat issues after giving demos on reporting bugs in QA and Webcompat and their individual results can be seen in this ([etherpad](https://public.etherpad-mozilla.org/p/firefox-nightly-campaign-salem)). We had a great time organising the event in Salem. We would like to register our sincere thanks to everyone who volunteered for this event. Here is what our contributors have to say about their experience they had during the event in a blog.
+ 
+ * [Alwin Mathew.](http://alwinmathewm.blogspot.in/2017/06/experience-in-nightly-campaign-salem.html)
+ * [Dinesh Kumar.](http://dinestronic.blogspot.in/2017/06/hi-techies-i-attended.html?m=1)
+ * [Jai Vishnu.](http://jaivishnujc.blogspot.in/2017/06/firefox-contribution-experience_28.html?m=1)
+ * [Pooraghavan.](http://raghavrk99.blogspot.in/2017/06/my-experience-at-firefox-nightly.html?m=1)
+ 
 
 ![Ending session with group photo]({{ site.url }}/assets/events/nightlygp.jpg)
 
-**METRICS ACHIEVED:**   
+**METRICS ACHIEVED:**    
    * No of attendees at the event: 15
    * No of Firefox Nightly installed: 11 Laptops / 5 Mobile / 1 Tab
    * No of participants will contribute in Firefox Nightly after event: 6
