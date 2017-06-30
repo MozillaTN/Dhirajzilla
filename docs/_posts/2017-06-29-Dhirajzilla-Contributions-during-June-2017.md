@@ -4,7 +4,7 @@ layout: post
 #event information
 title:  "Report of Firefox Nightly Campaign"
 cover: "../assets/WebCompat.png"
-date:   2017-03-31
+date:   2017-06-29
 
 #event organiser details
 organiser: "Fahima Zulfath"
