@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Report of Firefox Nightly Campaign"
-cover: "../assets/InUsesFxNightly.jpg"
+cover: "../assets/WebCompat.png"
 date:   2017-03-31
 
 #event organiser details
@@ -12,6 +12,8 @@ organiser: "Fahima Zulfath"
 categories: "blog"
 
 ---
+ ![InUsesFxNightly]({{ site.url }}/assets/events/InUsesFxNightly.jpg)
+
 During the month of May and June 2017, [Mozilla India](https://blog.mozillaindia.org/1801) have organised a campaign called 
 **India Uses Firefox Nightly**  especially for the developers of India to enjoy the pre-released version of Firefox. The main motto of this campaign is to create awarness about pre-release version available as Nightly and targeting more power users for nightly. Contributing for Nightly is the easy way to make Firefox more stable during its initial stage of development before getting released in the mainstream. Mozilla Tamilnadu community is very happy to be the part of this campaign and organised a event called "Firefox Nightly Campaign" at Salem on June 18, 2017.
 
@@ -29,10 +31,9 @@ These event is organized with the objective to bring more power users for nightl
    * Demonstration of other ways to contribution.
    * Swag distribution and Group photo.
    
- The event was very successful enough to attract as many as 15 contributors out of which we had 5 new contributors. During the event we had Hands-on session on triaging Webcompat issues after giving demos on reporting bugs in QA & Webcompat and their individual results can be seen in this ([etherpad](https://public.etherpad-mozilla.org/p/firefox-nightly-campaign-salem)). We had a great time organising the event in Salem. We would like to register our sincere thanks to everyone who volunteered for this event. Here is what our contributors have to say about their experience they had during the event in a blog.
+ The event was very successful enough to attract as many as 15 contributors out of which we had 5 new contributors. Dhirajzilla contributors also joined with us to become a power user. During the event we had Hands-on session on triaging Webcompat issues after giving demos on reporting bugs in QA & Webcompat and their individual results can be seen in this ([etherpad](https://public.etherpad-mozilla.org/p/firefox-nightly-campaign-salem)). We had a great time organising the event in Salem. We would like to register our sincere thanks to everyone who volunteered for this event. Here is what our contributors from our campus club have to say about their experience they had during the event in a blog.
  
  * [Alwin Mathew.](http://alwinmathewm.blogspot.in/2017/06/experience-in-nightly-campaign-salem.html)
- * [Dinesh Kumar.](http://dinestronic.blogspot.in/2017/06/hi-techies-i-attended.html?m=1)
  * [Jai Vishnu.](http://jaivishnujc.blogspot.in/2017/06/firefox-contribution-experience_28.html?m=1)
  * [Pooraghavan.](http://raghavrk99.blogspot.in/2017/06/my-experience-at-firefox-nightly.html?m=1)
  
