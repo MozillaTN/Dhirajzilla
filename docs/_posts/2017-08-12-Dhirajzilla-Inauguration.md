@@ -20,8 +20,7 @@ growing club in the salem region with smaller number of active contributors.
 
 **AGENDA:**
 
-
-     *Welcome Speech by Ashly Rose Mathew, Tech Speaker, Mozilla Community. 
+   *Welcome Speech by Ashly Rose Mathew, Tech Speaker, Mozilla Community. 
      *Evolution of Dhirajzilla by Dhevendhiran M, Club Captain, Dhirajzilla. 
      *Release of Dhirajzilla Official Website. 
      *Goals of Dhirajzilla by Bhuvana Meenakshi K,  WebVR contributor and Evangelist. 
