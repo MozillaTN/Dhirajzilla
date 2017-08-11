@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Dhirajzilla Campus Club Inauguration"
-cover: "../assets/DGCT.png"
+cover: "../assets/dgct1.png"
 date:   2017-08-12
 
 #event organiser details
