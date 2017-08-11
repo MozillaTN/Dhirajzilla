@@ -16,7 +16,7 @@ We are very happy to invite all the Students, Developers, Techies, Innovators an
 great network to attach and improve yourselves with Dhirajzilla which is a campus club under Mozilla Comunity. This is a fastest 
 growing club in the salem region with smaller number of active contributors.
 
-![poster]( {{ site.url}}/assets/poster.jpeg)
+![poster]( {{ site.url}}/assets/poster5.png)
 
 **AGENDA:**
       *Welcome Speech by Ashly Rose Mathew, Tech Speaker, Mozilla Community. 
