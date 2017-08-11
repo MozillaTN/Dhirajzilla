@@ -19,14 +19,15 @@ growing club in the salem region with smaller number of active contributors.
 ![poster]( {{ site.url}}/assets/poster5.png)
 
 **AGENDA:**
-      *Welcome Speech by Ashly Rose Mathew, Tech Speaker, Mozilla Community. 
-      *Evolution of Dhirajzilla by Dhevendhiran M, Club Captain, Dhirajzilla. 
-      *Release of Dhirajzilla Official Website. 
-      *Goals of Dhirajzilla by Bhuvana Meenakshi K,  WebVR contributor and Evangelist. 
-      *Introduction to Mozilla and its key areas by Viswaprasath K S, Mozillian Rep. 
-      *Vote of Thanks by Fahima Zulfath,  QA contributor and Evangelist.
-      *Technical Session on Web extension(Hands On)  by Viswaprasath K S, Mozillian Rep. 
-      *Photo Session 
+
+   *Welcome Speech by Ashly Rose Mathew, Tech Speaker, Mozilla Community. 
+   *Evolution of Dhirajzilla by Dhevendhiran M, Club Captain, Dhirajzilla. 
+   *Release of Dhirajzilla Official Website. 
+   *Goals of Dhirajzilla by Bhuvana Meenakshi K,  WebVR contributor and Evangelist. 
+   *Introduction to Mozilla and its key areas by Viswaprasath K S, Mozillian Rep. 
+   *Vote of Thanks by Fahima Zulfath,  QA contributor and Evangelist.
+   *Technical Session on Web extension(Hands On)  by Viswaprasath K S, Mozillian Rep. 
+   *Photo Session 
 
    
 **VENUE:** Auditorium, Dhirajlal Gandhi College of Technology, Salem
