@@ -31,7 +31,7 @@ growing club in the salem region with smaller number of active contributors.
 
 **DATE:** August 12, 2017.
 
-**TIME:** 10.00 AM to 1.00 PM. 
+**TIME:** 09.00 AM to 2.00 PM. 
 
 Once again We are welcome you to the great inaugural function to gear up with Mozilla Community,
 
