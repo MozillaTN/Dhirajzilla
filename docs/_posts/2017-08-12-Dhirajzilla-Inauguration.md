@@ -9,7 +9,7 @@ date:   2017-08-12
 #event organiser details
 organiser: "Dhevendhiran M"
 
-categories: "event"
+categories: "blog"
 
 ---
 We are very happy to invite all the Students, Developers, Techies, Innovators and all kinds of people who are looking for a 
