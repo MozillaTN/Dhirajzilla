@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Dhirajzilla Campus Club Inauguration"
-cover: "../assets/poster.jpeg"
+cover: "../assets/dgct1.png"
 date:   2017-08-12
 
 #event organiser details
@@ -16,7 +16,7 @@ We are very happy to invite all the Students, Developers, Techies, Innovators an
 great network to attach and improve yourselves with Dhirajzilla which is a campus club under Mozilla Comunity. This is a fastest 
 growing club in the salem region with smaller number of active contributors.
 
-
+![poster]( {{ site.url}}/assets/poster.jpeg)
 
 **AGENDA:**
       *Welcome Speech by Ashly Rose Mathew, Tech Speaker, Mozilla Community. 
