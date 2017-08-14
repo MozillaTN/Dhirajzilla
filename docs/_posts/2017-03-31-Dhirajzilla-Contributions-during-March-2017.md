@@ -16,8 +16,9 @@ categories: "blog"
   As a Campus Club of Mozilla Community, Dhirajzilla is very happy to share their first and foremost contributions done during March 2k17.
 We celebrated Women's Day by organising an event and participated in various Mozilla Open Source activities.
 
-<p>WOMENS DAY CELEBRATION- 08 March 2017:</p>
-    <p>In order to bring Women to the Technological World, Dhirajzilla conducted event on Women's Day to give awareness on trending Open Source tools and projects. A group of 29 out of 15 were women contributors have attended this event. The event came across five sessions through which DGCTians learnt many new things and benefited by acquirung more knowledge about various Open source Activities. The session covers,</p>
+**WOMENS DAY CELEBRATION- 08 March 2017:**
+ 
+  In order to bring Women to the Technological World, Dhirajzilla conducted event on Women's Day to give awareness on trending Open Source tools and projects. A group of 29 out of 15 were women contributors have attended this event. The event came across five sessions through which DGCTians learnt many new things and benefited by acquirung more knowledge about various Open source Activities. The session covers,
 
    1. "ROLE OF WOMEN IN TECHNOLOGY" what we are and what we can by Ms. Ashly Rose Mathew.
    2. "Introduction to WebVR" by Ms. Bhuvana Meenakshi.
@@ -25,39 +26,36 @@ We celebrated Women's Day by organising an event and participated in various Moz
    4. "Introduction and Guidance for Web Extension" by Ms. Ashly Rose Mathew.
    5. "Hands-on workshop on Rust" by Mr. Dhevendhiran.
 -------------------------------------------------------------------------------------------------------------------------
- <p>QA and WebCompat contributor, Ms.Fahima Zulfath had participated in the following track events,</p>
+ 
+ Here is a report on our QA test day activities during March Month 2017.
+-With these awesome contributors
 
-<p>QA BUG DAY- 01 March 2017</p>
- * Bug verified: 1
-
-<p>QA BUG DAY- 06 March 2017</p>
- * Number of Bugs triaged: 3
-
-<p>WEB COMPAT- 12 March 2017</p>
- * Number of Bugs reported: 1
+ * [Fahima Zulfath](https://twitter.com/FahimaZulfath) 
+ 
+ **Short Metrics:**
+ 
+ * Number of Bugs verified: 5
+ * Number of Bugs triaged: 4
+ * Number of Bugs reported: 3
  * Number of Compatiblity issues diagnosed: 3
  
-<p>QA BUG DAY- 15 March 2017</p>
- * Number of Bugs reported: 1
- * Number of Bugs verified: 2
- 
-<p>QA FIREFOX 53 BETA 3 TEST DAY- 17 March 2017</p>
- * Number of Bug filed: 1
- * Number of Test case verified: 18
- * Number of fixed Bugs verified: 2
- 
-Testday result:[Etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Firefox_53_Beta_3_Testday)
- 
-<p>QA BUG DAY- 27 March 2017</p>
- * Number of Bug triaged: 1  
+ The results are listed below.
 
-<p>QA FIREFOX 53 BETA 8 TESTDAY- 31 March 2017</p>
- * Number of Test case verified: 11
+- [Bug Verification Day-20170301](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_day_20170301)
+- [Firefox 53.0 Aurora Testday-20170303](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Test_Day-20170303)
+- [Bug Trige Day-20170306](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170306)
+- [Bug Verification Day-20170308](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_verification_Day_20170308)
+- [Bug Verification Day-20170315](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20170315)
+- [Firefox 53 Beta 3 Testday-20170317](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Firefox_53_Beta_3_Testday)
+- [Bug verification day-20170322](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_Day_20170322)
+- [Bug Trige Day-20170327](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Triage_Day_20170327)
+- [Bug Verification Day-20170329](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Bug_Verification_day_20170329)
+- [Firefox 53 Beta 8 Testday-20170331](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Firefox_53_Beta_8_Testday)
 
-Testday result:[Etherpad](https://public.etherpad-mozilla.org/p/MozillaIN_QA_Firefox_53_Beta_8_Testday)
+
+   Hope the Dhirajzilla will soon get highly active with more active contributor as this is an intial step to make more DGCTians to get involve!!
    
-   <p>Hope the Dhirajzilla will soon get highly active with more active contributor as this is an intial step to make more DGCTians to get involve!!</p>
-   <centre><p>Happy Contribution!</p></centre>
+   Happy Contribution!
     
    
    
