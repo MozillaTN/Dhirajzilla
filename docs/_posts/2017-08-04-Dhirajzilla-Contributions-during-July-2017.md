@@ -9,7 +9,7 @@ date:   2017-08-04
 #event organiser details
 organiser: "Fahima Zulfath"
 
-categories: "event"
+categories: "blog"
 
 ---
 
