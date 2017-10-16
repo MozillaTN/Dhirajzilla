@@ -1,7 +1,7 @@
 ---
 title:  "Firefox Quantum Sprint at Salem"
 date:   2017-10-17 10:50:00 +0530
-description: Mozilla Tamilnadu Community cvontributions for Firefox Quantum
+description: Mozilla Tamilnadu Community contributions for Firefox Quantum
 categories: blog
 tags: [fxwebcompat]
 author: Fahima Zulfath
@@ -16,11 +16,12 @@ author: Fahima Zulfath
 * Getting involved in Sprint by testing and reporting bugs
 * Swag distribution and Group Photo
 
-         The event was sucessfully conducted with vibrant number of contributor around Salem from Dhirajzilla Campus Club and KIOT Mozilla Campus club. We had a great time organising the event in Salem. We would like to register our sincere thanks to everyone who volunteered for this event.
+**VENUE:** CCI Computer Education, VRK building, near Palace theater, Salem, Tamilnadu.
+**TIME:** 10.00 AM to 1.00 PM.
+
+         The event was sucessfully conducted with vibrant number of contributor around Salem from Dhirajzilla Campus Club and KIOT Mozilla Campus club. The Sprint results can be seen in this [Etherpad](https://public.etherpad-mozilla.org/p/Firefox_Quantum_Sprint_-_Salem). We had a great time organising the event in Salem. We would like to register our sincere thanks to everyone who volunteered for this event.
          
 METRICS ACHIEVED:
-
-No of attendees at the event: 15
-No of bugs filed: 2
-No of websites tested:
-Social Media Impression: Tweets
+* No of attendees at the event: 10
+* No of bugs filed: 25+
+* No of websites tested:100+
