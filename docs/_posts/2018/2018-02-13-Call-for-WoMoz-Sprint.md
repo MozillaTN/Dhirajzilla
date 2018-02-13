@@ -13,7 +13,7 @@ categories: "event"
 
 ---
 
-Mozilla Community very happy to welcomes more number of Women Contributors in Open Source Technologies. As a Campus Club of Mozilla Community, we intent to celebrate womens's day which is on March 3, 2018 at DGCT. 
+Mozilla Community is very happy to welcomes more number of Women Contributors in Open Source Technologies. As a Campus Club of Mozilla Community, we intent to celebrate womens's day which is on March 3, 2018 at DGCT. 
 
 **Event Flow:**
 1. A talk on "Role of women in Technology"
@@ -27,7 +27,9 @@ Mozilla Community very happy to welcomes more number of Women Contributors in Op
 9. Swag distribution and Group photo
 
 **Hash Tag:** #WoMozTN
+
 **Venue	  :** Web Technology Lab, DGCT Campus.
+
 **Time    :** 09.30 AM - 4.45 PM
 
 So, Dhirajzilla invites DGCTians to participate and celebrate the 2k18 Women's day with Mozilla Community...
