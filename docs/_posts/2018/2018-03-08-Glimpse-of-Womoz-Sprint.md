@@ -22,12 +22,14 @@ topics of open source community to the score inspired many girls to accomplish t
 
 With avid interest, our club contributors came forward and created VR scene using A-Frame on the
 theme of **Press for Progress** during the session. Check this [etherpad](https://public.etherpad-mozilla.org/p/remo-womoz-sprint-2018) to view the metrics achieved during the sprint.
-)) 
+
   
 The count of girls who came forward were amazing, we strongly believe that they all will be a sustained contributors 
 to open source. Thanks to every Women who were a part of us. 
 
-Hoping to have many events like this focusing the women power. Once again Happy women's day folks!! :)
+Hoping to have many events like this focusing the women power. 
+
+Once again Happy women's day folks!! :)
 
 
 
