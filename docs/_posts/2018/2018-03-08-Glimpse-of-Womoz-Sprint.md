@@ -21,8 +21,9 @@ We had a hands-on session on WebVR with the sessional demonstrations of widely d
 topics of open source community to the score inspired many girls to accomplish the growing technology. Special thanks to [Ms.Bhuvana Meenakshi](https://twitter.com/bhuvanakotees1) for the webinar, on delivering the demonstration of WebVR and WebXR.
 
 With avid interest, our club contributors came forward and created VR scene using A-Frame on the
-theme of **Press for Progress** during the session. Check this [etherpad](https://public.etherpad-mozilla.org/p/remo-womoz-sprint-2018) to view the metrics achieved during the sprint.
+theme of **Press for Progress** during the session. Check this [etherpad](https://public.etherpad-mozilla.org/p/remo-womoz-sprint-2018) to view the metrics achieved during the sprint. 
 
+Have a look at VR scene created by one of our Club Womoz contributor [Ms.Suganthi](https://suguswe.github.io/sugsswe/ss.html)
   
 The count of girls who came forward were amazing, we strongly believe that they all will be a sustained contributors 
 to open source. Thanks to every Women who were a part of us. 
