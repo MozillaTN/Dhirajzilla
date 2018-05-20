@@ -37,7 +37,7 @@ While in afternoon, we attended the sprint call to connect with wider other part
 * **5** commits
 * **1** Pull request closed
 
-We had great time throughout the sprint, special thanks to Bhuvana Meenakshi for swags and site space. Thanks to all the participant for making this sprint a grand sucess.
+We had great time throughout the sprint, special thanks to [Bhuvana Meenakshi](https://twitter.com/bhuvanakotees1) for swags and site space. Thanks to all the participant for making this sprint a grand sucess.
 
 **Happy mozsprint!!**
 
