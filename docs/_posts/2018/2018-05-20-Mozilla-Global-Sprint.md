@@ -39,6 +39,6 @@ While in afternoon, we attended the sprint call to connect with wider other part
 
 We had great time throughout the sprint, special thanks to Bhuvana Meenakshi for swags and site space. Thanks to all the participant for making this sprint a grand sucess.
 
-<center>**Happy mozsprint!!**</centre>
+**Happy mozsprint!!**
 
 
