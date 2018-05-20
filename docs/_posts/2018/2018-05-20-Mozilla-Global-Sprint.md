@@ -21,7 +21,7 @@ categories: "blog"
 and many others come together in person and online to build projects for a healthy Internet. For this year mozsprint introduced more that [100+ open projects](https://foundation.mozilla.org/opportunity/global-sprint/2018-projects/) under Open Innovation, Web Literacy, Digital Inclusion, Decentralization and Privacy.
 
 As a part of it, Dhirajzilla campus club hosted the [sprint](https://ti.to/Mozilla/global-sprint-salem) in Salem on May 11, 2018 from 
-10.00 AM to 1 PM. We had 15 students as vibrant participants in which 3 of them where form KIOT campus club. 
+10.00AM to 1PM. We had 15 students as vibrant participants, in which 3 of them where from KIOT campus club. 
 
 ![](https://pbs.twimg.com/media/DcqExhkV0AAbmww.jpg)
 
