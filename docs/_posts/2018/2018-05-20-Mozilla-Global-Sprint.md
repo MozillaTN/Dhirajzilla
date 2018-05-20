@@ -29,13 +29,13 @@ The sprint was focussed on one of the project called [Spread Open Healthy Web](h
 
 While in afternoon, we attended the sprint call to connect with wider other participants globally, where we had oppurtunity to shout out about our project metrics and also had chance to hear about many interesting projects that solves the problem of healthy internet.
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDc7o7aBV4AAPtbt.jpg&imgrefurl=https%3A%2F%2Fwww.trendsmap.com%2Ftwitter%2Ftweet%2F994988800576180224&docid=YqIYC7w5CFnPyM&tbnid=zKXEOjoVHoItCM%3A&vet=10ahUKEwjj65-xxJTbAhUIRY8KHWNDA5oQMwg0KAEwAQ..i&w=1200&h=900&itg=1&safe=active&client=firefox-b-ab&bih=654&biw=1366&q=mozsprint%20at%20salem&ved=0ahUKEwjj65-xxJTbAhUIRY8KHWNDA5oQMwg0KAEwAQ&iact=mrc&uact=8)
-
+![](https://pbs.twimg.com/media/Dc7o7aBV4AAPtbt.jpg)
 ## Metrics Achieved:
+* **15** participants
 * **13** issues
 * **10** comments
 * **5** commits
-* **1 Pull request closed
+* **1** Pull request closed
 
 We had great time throughout the sprint, special thanks to Bhuvana Meenakshi for swags and site space. Thanks to all the participant for making this sprint a grand sucess.
 
